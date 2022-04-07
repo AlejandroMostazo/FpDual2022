@@ -1,4 +1,4 @@
-package edu.fpdual.ejemplo.project1;
+package edu.fpdual.ejemplo.project;
 
 public class Ejer4 {
     public static int [] Invertir (int array[]) {

@@ -1,4 +1,4 @@
-package edu.fpdual.ejemplo.project1;
+package edu.fpdual.ejemplo.project;
 
 // EUC que contenga un método que reciba un arreglo tipo String y que
 // retorne otro arreglo que

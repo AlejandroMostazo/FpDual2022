@@ -1,4 +1,4 @@
-package edu.fpdual.ejemplo.project1;
+package edu.fpdual.ejemplo.project;
 
 //3- EUC que contenga un método que reciba un arreglo tipo int y que retorne
 // otro arreglo de enteros

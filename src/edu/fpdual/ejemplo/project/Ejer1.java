@@ -1,4 +1,4 @@
-package edu.fpdual.ejemplo.project1;
+package edu.fpdual.ejemplo.project;
 
 public class Ejer1 {
     public static boolean EsUnSeis (int array[]) {

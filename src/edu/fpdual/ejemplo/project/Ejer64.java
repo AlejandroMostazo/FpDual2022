@@ -1,4 +1,4 @@
-package edu.fpdual.ejemplo.project1;
+package edu.fpdual.ejemplo.project;
 
 import java.util.ArrayList;
 import java.util.Collection;

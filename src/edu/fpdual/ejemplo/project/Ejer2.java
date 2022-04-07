@@ -1,4 +1,4 @@
-package edu.fpdual.ejemplo.project1;//2- EUC que contenga un método que reciba un arreglo tipo int y que retorne true (verdadero) este no
+package edu.fpdual.ejemplo.project;//2- EUC que contenga un método que reciba un arreglo tipo int y que retorne true (verdadero) este no
 //contiene un 2 o un 3 en sus valores, y falso (false) si contiene un 2 o un 3 en sus valores.
 
 public class Ejer2 {
