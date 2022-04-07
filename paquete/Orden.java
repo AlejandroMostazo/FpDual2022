@@ -7,7 +7,7 @@ public class Orden {
     private boolean Finalizado;
     Empleado Realizador;
     Cliente Afectado;
-    
+    //TODO
     public Orden (String id, String f, String p, Empleado r, Cliente c) {
         this.ID = id;
         this.Fecha = f;
